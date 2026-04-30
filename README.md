@@ -171,15 +171,6 @@ I specialize in architecting scalable web applications with **Next.js**, automat
 </table>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DjamelRebiai/DjamelRebiai/output/github-snake-dark.svg" width="100%" />
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -196,7 +187,7 @@ I specialize in architecting scalable web applications with **Next.js**, automat
 
 <br/><br/>
 
-[Email Me](mailto:djameltb2014@gmail.com) | [LinkedIn](https://linkedin.com/in/djamel-rebiai) | [Twitter (X)](https://twitter.com/DjamelRebiai) | [GitHub](https://github.com/DjamelRebiai)
+[Email Me](mailto:djameltb2014@gmail.com) | [LinkedIn](https://linkedin.com/in/djamel-rebiai) | [GitHub](https://github.com/DjamelRebiai)
 
 **💡 Available for freelance projects & strategic collaborations.**
 
