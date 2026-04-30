@@ -32,7 +32,7 @@
 <!-- 👤 HERO SECTION: BIO & ACTIVITY -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<table border="0">
+<table>
   <tr>
     <td width="55%" valign="top">
 
@@ -45,7 +45,9 @@ I specialize in architecting scalable web applications with **Next.js**, automat
 
     </td>
     <td width="45%" valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DjamelRebiai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Activity"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DjamelRebiai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Activity"/>
+
     </td>
   </tr>
 </table>
@@ -92,7 +94,7 @@ I specialize in architecting scalable web applications with **Next.js**, automat
 
 ## 📈 Activity & Insights
 
-<table border="0">
+<table>
   <tr>
     <td width="50%" valign="top">
 
@@ -151,7 +153,7 @@ I specialize in architecting scalable web applications with **Next.js**, automat
 
 ## 📜 Academic & Personal Journey
 
-<table border="0">
+<table>
   <tr>
     <td width="60%" valign="top">
 
@@ -163,9 +165,11 @@ I specialize in architecting scalable web applications with **Next.js**, automat
 
     </td>
     <td width="40%" valign="top">
-      <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=DjamelRebiai&theme=algolia&no-frame=true&no-bg=true&column=2" width="100%" alt="Trophies"/>
-      </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DjamelRebiai&theme=algolia&no-frame=true&no-bg=true&column=2" width="100%" alt="Trophies"/>
+</div>
+
     </td>
   </tr>
 </table>
