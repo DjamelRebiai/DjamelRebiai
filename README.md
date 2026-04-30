@@ -3,229 +3,168 @@
 -->
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 HEADER WAVE -->
+<!-- 🌊 HEADER SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=280&section=header&text=Djamel%20Rebiai&fontSize=75&fontAlignY=33&animation=twinkling&fontColor=58a6ff&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20Innovator%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=17&descColor=8b949e" width="100%" alt="Header"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ⌨️ ANIMATED TYPING -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%92%A1+Turning+raw+data+into+actionable+insights;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%90+Securing+systems+%7C+Automating+intelligence;%F0%9F%93%8A+Expertise+in+Next.js+React+%2B+Node.js;%F0%9F%8E%AF+%22Don't+just+write+code+%E2%80%94+build+solutions+that+change+reality%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%A1+Turning+raw+data+into+actionable+insights;%F0%9F%9A%80+Building+future-proof+solutions%2C+one+commit+at+a+time;%F0%9F%94%90+Securing+systems+%7C+Automating+intelligence;%F0%9F%8E%AF+%22Don't+just+write+code+%E2%80%94+build+solutions+that+change+reality%22" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🏷️ BADGES BAR -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DjamelRebiai&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/DjamelRebiai?tab=followers">
-    <img src="https://img.shields.io/github/followers/DjamelRebiai?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117" alt="Followers"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/DjamelRebiai?tab=repositories">
-    <img src="https://img.shields.io/badge/Open%20Source-❤️-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Open Source Love"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=DjamelRebiai&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/DjamelRebiai?label=Followers&style=flat-square&color=238636" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-58a6ff?style=flat-square" alt="Open Source"/>
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 👤 ABOUT ME -->
+<!-- 👤 HERO SECTION: BIO & ACTIVITY -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DjamelRebiai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="40%" alt="Activity"/>
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+### 👨‍💻 About Me
+I am a **Master's Student in Computer Science** with a deep passion for bridging the gap between cutting-edge AI and practical engineering. My journey is defined by a commitment to **Full-Stack Excellence**, **Data-Driven Intelligence**, and **Robust Cybersecurity**.
 
-> *"Don't just write code — build solutions that change reality."*
+I specialize in architecting scalable web applications with **Next.js**, automating complex workflows via **AI Agents**, and mining business value through intensive **Data Analytics**.
 
-<br/>
+*Beyond the keyboard, I'm a **Karate Black Belt** and a dedicated volunteer with the **Algerian Red Crescent**, bringing discipline and social responsibility to every project.*
 
-🎓 **Master's Student** in Computer Science — AI, Advanced Information Systems & Cybersecurity
-
-🧑‍💻 **Modern Full-Stack Expert** — Proficient in **React**, **Next.js**, **Node.js**, and **TypeScript**
-
-📊 **Data Analyst** — Transforming raw data into strategic business decisions using **Python**, **SQL**, and **Pandas**
-
-⚡ **Systems Developer** — Experienced with **Java**, **C**, and **Go** for high-performance applications
-
-🤖 **AI Automation Specialist** — Architecting intelligent workflows with **n8n**, **Make**, and **LLM** integrations
-
-🛡️ **Cybersecurity Enthusiast** — Specialized in Penetration Testing and Secure System Architecture
-
-🌍 **Languages:** Arabic & Amazigh (Native) · German (B2) · English (B1) · French (B1) · Russian (Basic)
-
-🥋 **Black Belt in Karate** · ❤️ **Red Crescent Volunteer** · 📍 **Bouira, Algeria** 🇩🇿
-
-<br clear="both"/>
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 CORE TECHNICAL MASTERY (Custom Stats) -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🏆 Core Technical Mastery & Fluency
-
-> [!TIP]
-> *This section reflects my actual professional proficiency levels across my primary technology stack.*
-
-<div align="center">
-
-| Skill / Framework | Proficiency | Progress Bar |
-| :--- | :--- | :--- |
-| **Next.js & React** | 96% | ![96%](https://geps.dev/progress/96?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
-| **Node.js & Backend** | 92% | ![92%](https://geps.dev/progress/92?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
-| **PostgreSQL & SQL** | 90% | ![90%](https://geps.dev/progress/90?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
-| **Python (Data Analysis)** | 94% | ![94%](https://geps.dev/progress/94?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
-| **Java & Mobile Dev** | 88% | ![88%](https://geps.dev/progress/88?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
-| **C & Systems Programming**| 85% | ![85%](https://geps.dev/progress/85?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
-| **Go (Golang)** | 82% | ![82%](https://geps.dev/progress/82?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
-| **SQLite & Lightweight Databases** | 90% | ![90%](https://geps.dev/progress/90?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK (Badges) -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;The Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📈 ACTIVITY STATS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 📈 Activity & Language Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjamelRebiai&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="45%" alt="Top Languages"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=DjamelRebiai&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" width="45%" alt="GitHub Stats"/>
-</p>
-
-<div align="center">
-  
-| GitHub Activity Record | Percentage | Status |
-| :--- | :--- | :--- |
-| **HTML** | 92.81% | ![Active](https://img.shields.io/badge/Primary_Output-E34F26) |
-| **PHP** | 5.81% | ![Active](https://img.shields.io/badge/Legacy/CMS-777BB4) |
-| **JavaScript** | 0.79% | ![Active](https://img.shields.io/badge/Interaction-F7DF1E) |
-| **Python & More** | < 1% | ![Active](https://img.shields.io/badge/Data_Heavy-3776AB) |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
-
-> 🔍 **My GitHub repos are waiting for your visit! Every project tells a story of solving a real-world problem.**
->
-> *Explore the code, star what inspires you, and let's build something amazing together.*
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Retail Sales Data Analysis
-**End-to-end** data analytics pipeline processing thousands of retail POS transactions through rigorous **ETL & EDA** workflows — uncovering actionable business insights with professional-grade visualizations.
-
-`Python` `Pandas` `NumPy` `SQL` `Business Intelligence`
-
-</td>
-<td width="50%">
-
-### ☁️ Hybrid Cloud Architecture
-**Enterprise-grade** infrastructure combining local servers with Oracle Cloud for **automatic failover** using reverse SSH tunnels, Nginx load balancing & Docker containers.
-
-`AWS` `Docker` `Nginx` `Nginx` `Oracle Cloud` `Security`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💬 ChatFlow System
-**Real-time** messaging application powered by **WebRTC** for peer-to-peer communication with AI-driven text analysis and intelligent conversation features.
-
-`Next.js` `React` `WebRTC` `AI` `Node.js`
-
-</td>
-<td width="50%">
-
-### 🚗 AutoRent System
-**Comprehensive** car rental management covering contracts, maintenance, client management & full financial tracking for rental businesses.
-
-`Full-Stack` `React` `Node.js` `Database Design`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛡️ Anti-Cheating App
-**Innovative** Bluetooth-based exam monitoring application that detects and stops **signal anomalies** during examinations in real-time.
-
-`Android` `Java` `Kotlin` `Bluetooth API` `Security`
-
-</td>
-<td width="50%">
-
-### 🏕️ Campingdz Platform
-**Interactive** platform for discovering camping spots across Algeria with **smart maps**, recommendations & community-driven features.
-
-`Next.js` `React` `Maps API` `Community`
-
-</td>
-</tr>
+    </td>
+    <td width="45%" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DjamelRebiai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Activity"/>
+    </td>
+  </tr>
 </table>
 
+<div align="center">
+  <b>🌍 Languages & Locations:</b> Arabic · Amazigh (Native) | German (B2) | English (B1) | French (B1) | Russian | 📍 Bouira, Algeria 🇩🇿
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📈 ADDITIONAL STATS -->
+<!-- 🏆 CORE MASTERY DASHBOARD -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
+## 🏆 Technical Mastery Dashboard
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjamelRebiai&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="49%" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=DjamelRebiai&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="49%" alt="Trophies"/>
+
+| Core Technology | Proficiency | Key Highlights |
+| :--- | :--- | :--- |
+| **Next.js & React** | 96% | ![96%](https://geps.dev/progress/96?dangerColor=58a6ff) | High-performance, SEO-optimized web apps |
+| **Node.js & Backend**| 92% | ![92%](https://geps.dev/progress/92?dangerColor=58a6ff) | Scalable APIs and Real-time microservices |
+| **Python & Data** | 70% | ![70%](https://geps.dev/progress/70?dangerColor=58a6ff) | ETL pipelines, EDA & Business Intelligence |
+| **Java & Mobile** | 88% | ![88%](https://geps.dev/progress/88?dangerColor=58a6ff) | Android Studio, Native Performance |
+| **SQL & Databases** | 90% | ![90%](https://geps.dev/progress/90?dangerColor=58a6ff) | PostgreSQL, Schema Optimization |
+| **Go & Systems** | 75% | ![75%](https://geps.dev/progress/75?dangerColor=58a6ff) | Performant concurrent backend services |
+
 </div>
+
+<br/>
+
+<div align="center">
+
+**Modern Arsenal:**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 📈 STATS & ANALYTICS -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📈 Activity & Insights
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🗓️ GitHub Contributions
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DjamelRebiai&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" width="100%" alt="Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjamelRebiai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" width="100%" alt="Streak"/>
+</div>
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📊 Language Frequency
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjamelRebiai&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&bg_color=0d1117" width="100%" alt="Top Langs"/>
+</div>
+
+| Output Analytics | Volume |
+| :--- | :--- |
+| **HTML/Assets** | 92.81% |
+| **PHP/Backend** | 5.81% |
+| **JavaScript** | 0.79% |
+| **Data/Hack/Others** | < 1% |
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED PROJECTS SHOWCASE -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Showcased Innovations
+
+<div align="center">
+
+| Project | Essence | Stack |
+| :--- | :--- | :--- |
+| **📊 Sales Analysis** | **Data Pipeline** for enterprise POS records. | `Python` `Pandas` `SQL` |
+| **☁️ Hybrid Cloud** | **Failover** system using SSH & Nginx. | `AWS` `Docker` `Linux` |
+| **💬 ChatFlow** | **WebRTC** messaging with AI analysis. | `Next.js` `AI` `WebRTC` |
+| **🚗 AutoRent** | **Business Logic** & management system. | `React` `Node.js` `SQL` |
+| **🛡️ Anti-Cheating** | **Bluetooth** monitoring for examinations. | `Android` `Java` `Kotlin` |
+| **🏕️ Campingdz** | **Community** maps & recommendation site. | `Next.js` `Maps API` |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 HONORS & JOURNEY -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📜 Academic & Personal Journey
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+
+```
+🎓 2025 — Now     ║ Master's in CS (AI & Security)
+📜 2022 — 2025    ║ Bachelor's in CS (Honors ★)
+🏫 2019 — 2022    ║ Baccalauréat (Distinction ★)
+```
+
+    </td>
+    <td width="40%" valign="top">
+      <div align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=DjamelRebiai&theme=algolia&no-frame=true&no-bg=true&column=2" width="100%" alt="Trophies"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -234,81 +173,33 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DjamelRebiai/DjamelRebiai/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DjamelRebiai/DjamelRebiai/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DjamelRebiai/DjamelRebiai/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DjamelRebiai/DjamelRebiai/output/github-snake-dark.svg" width="100%" />
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🌐 PORTFOLIO CTA -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-  ## 🌟 Explore My Full Portfolio
-  
-  <a href="https://portfolio-djamel-rebiai.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-Click_Here-58a6ff?style=for-the-badge&labelColor=0d1117&color=238636" alt="Portfolio" height="45"/>
-  </a>
-
-  <br/><br/>
-
-  > ✨ **My portfolio dives deeper into my projects, skills & professional journey — come take a look!**
-  >
-  > *From full-stack apps to data pipelines, it's all there — waiting for you.*
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📬 CONNECT -->
+<!-- 📬 LET'S CONNECT SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <a href="mailto:djameltb2014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/djamel-rebiai">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/DjamelRebiai">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://portfolio-djamel-rebiai.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+## 🌟 Ready to collaborate? Let's talk.
+
+<a href="https://portfolio-djamel-rebiai.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Explore_Full_Portfolio-Click_Here-238636?style=for-the-badge&labelColor=0d1117" alt="Portfolio" height="40"/>
+</a>
+
+<br/><br/>
+
+[Email Me](mailto:djameltb2014@gmail.com) | [LinkedIn](https://linkedin.com/in/djamel-rebiai) | [Twitter (X)](https://twitter.com/DjamelRebiai) | [GitHub](https://github.com/DjamelRebiai)
+
+**💡 Available for freelance projects & strategic collaborations.**
 
 </div>
-
-<br/>
-
-<div align="center">
-
-  **💡 Open for freelance projects, collaborations & exciting opportunities!**
-  
-  *If you like what you see, drop a ⭐ — it fuels the grind!*
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 FOOTER WAVE -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️_&_☕-58a6ff?style=flat-square&labelColor=0d1117" alt="Made with Love"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Designed_for-Performance-58a6ff?style=flat-square&labelColor=0d1117" alt="Signature"/>
 </div>
