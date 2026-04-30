@@ -32,25 +32,17 @@
 <!-- 👤 HERO SECTION: BIO & ACTIVITY -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
 ### 👨‍💻 About Me
+
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DjamelRebiai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="45%" alt="Activity Graph"/>
+
 I am a **Master's Student in Computer Science** with a deep passion for bridging the gap between cutting-edge AI and practical engineering. My journey is defined by a commitment to **Full-Stack Excellence**, **Data-Driven Intelligence**, and **Robust Cybersecurity**.
 
 I specialize in architecting scalable web applications with **Next.js**, automating complex workflows via **AI Agents**, and mining business value through intensive **Data Analytics**.
 
 *Beyond the keyboard, I'm a **Karate Black Belt** and a dedicated volunteer with the **Algerian Red Crescent**, bringing discipline and social responsibility to every project.*
 
-    </td>
-    <td width="45%" valign="top">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DjamelRebiai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Activity"/>
-
-    </td>
-  </tr>
-</table>
+<br/>
 
 <div align="center">
   <b>🌍 Languages & Locations:</b> Arabic · Amazigh (Native) | German (B2) | English (B1) | French (B1) | Russian | 📍 Bouira, Algeria 🇩🇿
@@ -94,35 +86,29 @@ I specialize in architecting scalable web applications with **Next.js**, automat
 
 ## 📈 Activity & Insights
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🗓️ GitHub Contributions
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DjamelRebiai&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" width="100%" alt="Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjamelRebiai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" width="100%" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DjamelRebiai&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" width="48%" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjamelRebiai&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&bg_color=0d1117" width="48%" alt="Top Langs"/>
 </div>
 
-    </td>
-    <td width="50%" valign="top">
+<br/>
 
-### 📊 Language Frequency
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjamelRebiai&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&bg_color=0d1117" width="100%" alt="Top Langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjamelRebiai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff" width="60%" alt="Streak Statistics"/>
 </div>
 
-| Output Analytics | Volume |
-| :--- | :--- |
-| **HTML/Assets** | 92.81% |
-| **PHP/Backend** | 5.81% |
-| **JavaScript** | 0.79% |
-| **Data/Hack/Others** | < 1% |
+<br/>
 
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Output Analytics | Volume | | GitHub Contributions | Rank |
+| :--- | :--- | :--- | :--- | :--- |
+| **HTML/Assets** | 92.81% | | **Overall Level** | Expert |
+| **PHP/Backend** | 5.81% | | **PHP/Legacy** | 5.81% |
+| **JavaScript** | 0.79% | | **JS/Interaction** | 0.79% |
+| **Data/Others** | < 1% | | **Others** | < 1% |
+
+</div>
 
 <br/>
 
@@ -153,26 +139,13 @@ I specialize in architecting scalable web applications with **Next.js**, automat
 
 ## 📜 Academic & Personal Journey
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=DjamelRebiai&theme=algolia&no-frame=true&no-bg=true&column=2" width="40%" alt="Trophies"/>
 
 ```
 🎓 2025 — Now     ║ Master's in CS (AI & Security)
 📜 2022 — 2025    ║ Bachelor's in CS (Honors ★)
 🏫 2019 — 2022    ║ Baccalauréat (Distinction ★)
 ```
-
-    </td>
-    <td width="40%" valign="top">
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DjamelRebiai&theme=algolia&no-frame=true&no-bg=true&column=2" width="100%" alt="Trophies"/>
-</div>
-
-    </td>
-  </tr>
-</table>
 
 <br/>
 <br/>
