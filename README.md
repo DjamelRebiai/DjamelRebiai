@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%92%A1+Turning+raw+data+into+actionable+insights;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%90+Securing+systems+%7C+Automating+intelligence;%F0%9F%93%8A+Expertise+in+Next.js%2+React+%2B+Node.js;%F0%9F%8E%AF+%22Don't+just+write+code+%E2%80%94+build+solutions+that+change+reality%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%92%A1+Turning+raw+data+into+actionable+insights;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%90+Securing+systems+%7C+Automating+intelligence;%F0%9F%93%8A+Expertise+in+Next.js%20%2B%20React%20%2B%20Node.js;%F0%9F%8E%AF+%22Don't+just+write+code+%E2%80%94+build+solutions+that+change+reality%22" alt="Typing SVG" />
   </a>
 </div>
 
@@ -56,11 +56,11 @@
 
 🧑‍💻 **Modern Full-Stack Expert** — Proficient in **React**, **Next.js**, **Node.js**, and **TypeScript**
 
-📊 **Data Analyst** — Leveraging **Python**, **Pandas**, and **SQL** to unlock business value from complex datasets
+📊 **Data Analyst** — Transforming raw data into strategic business decisions using **Python**, **SQL**, and **Pandas**
 
 ⚡ **Systems Developer** — Experienced with **Java**, **C**, and **Go** for high-performance applications
 
-🤖 **AI Automation Specialist** — Architecting intelligent workflows with n8n, Make & LLM Integrations
+🤖 **AI Automation Specialist** — Architecting intelligent workflows with **n8n**, **Make**, and **LLM** integrations
 
 🛡️ **Cybersecurity Enthusiast** — Specialized in Penetration Testing and Secure System Architecture
 
@@ -132,6 +132,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Hack-00FBFF?style=for-the-badge&logo=hack&logoColor=black" alt="Hack"/>
 </p>
 </details>
 
@@ -147,6 +148,36 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 </details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 📊 MOST USED LANGUAGES -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📈 Most Used Languages (Activity Stats)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-92.81%25-E34F26?style=flat-square" alt="HTML"/>
+  <img src="https://img.shields.io/badge/PHP-5.81%25-777BB4?style=flat-square" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-0.79%25-F7DF1E?style=flat-square" alt="JS"/>
+  <img src="https://img.shields.io/badge/Hack-0.24%25-00FBFF?style=flat-square" alt="Hack"/>
+  <img src="https://img.shields.io/badge/Python-0.18%25-3776AB?style=flat-square" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-0.17%25-007ACC?style=flat-square" alt="TS"/>
+</p>
+
+<div align="center">
+  
+| Language | Percentage | Progress |
+| :--- | :--- | :--- |
+| **HTML** | 92.81% | ![92%](https://geps.dev/progress/93?dangerColor=E34F26&warningColor=E34F26&successColor=E34F26) |
+| **PHP** | 5.81% | ![5%](https://geps.dev/progress/6?dangerColor=777BB4&warningColor=777BB4&successColor=777BB4) |
+| **JavaScript** | 0.79% | ![1%](https://geps.dev/progress/1?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E) |
+| **Hack** | 0.24% | ![0%](https://geps.dev/progress/0?dangerColor=00FBFF&warningColor=00FBFF&successColor=00FBFF) |
+| **Python** | 0.18% | ![0%](https://geps.dev/progress/0?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB) |
+| **TypeScript** | 0.17% | ![0%](https://geps.dev/progress/0?dangerColor=007ACC&warningColor=007ACC&successColor=007ACC) |
+
+</div>
 
 <br/>
 
@@ -226,10 +257,10 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📈 STATS DISCLAIMER & CARDS -->
+<!-- 📈 GITHUB STATS CARDS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics (Live)
 
 > [!NOTE]
 > *GitHub Stats below track general activity. For a true reflection of my technical mastery, please refer to the **Tech Stack** and **Featured Projects** above.*
