@@ -11,15 +11,19 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%A1+Turning+raw+data+into+actionable+insights;%F0%9F%9A%80+Building+future-proof+solutions%2C+one+commit+at+a+time;%F0%9F%94%90+Securing+systems+%7C+Automating+intelligence;%F0%9F%8E%AF+%22Don't+just+write+code+%E2%80%94+build+solutions+that+change+reality%22" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=DjamelRebiai&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/DjamelRebiai?label=Followers&style=flat-square&color=238636" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-58a6ff?style=flat-square" alt="Open Source"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DjamelRebiai&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/DjamelRebiai?label=Followers&style=flat-square&color=238636" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-58a6ff?style=flat-square" alt="Open Source"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%92%A1+Turning+raw+data+into+actionable+insights;%F0%9F%9A%80+Building+future-proof+solutions%2C+one+commit+at+a+time;%F0%9F%94%90+Securing+systems+%7C+Automating+intelligence;%F0%9F%8E%AF+%22Don't+just+write+code+%E2%80%94+build+solutions+that+change+reality%22" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
