@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%92%A1+Turning+raw+data+into+actionable+insights;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%90+Securing+systems+%7C+Automating+intelligence;%F0%9F%93%8A+Expertise+in+Next.js%20%2B%20React%20%2B%20Node.js;%F0%9F%8E%AF+%22Don't+just+write+code+%E2%80%94+build+solutions+that+change+reality%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%92%A1+Turning+raw+data+into+actionable+insights;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%90+Securing+systems+%7C+Automating+intelligence;%F0%9F%93%8A+Expertise+in+Next.js+React+%2B+Node.js;%F0%9F%8E%AF+%22Don't+just+write+code+%E2%80%94+build+solutions+that+change+reality%22" alt="Typing SVG" />
   </a>
 </div>
 
@@ -44,7 +44,7 @@
 <!-- 👤 ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DjamelRebiai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="45%" alt="Activity"/>
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DjamelRebiai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="40%" alt="Activity"/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
@@ -72,31 +72,26 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 💼 PROFESSIONNAL EXPERTISE -->
+<!-- 🏆 CORE TECHNICAL MASTERY (Custom Stats) -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🎯 Core Technical Expertise
+## 🏆 Core Technical Mastery & Fluency
+
+> [!TIP]
+> *This section reflects my actual professional proficiency levels across my primary technology stack.*
 
 <div align="center">
 
-```
-┌─────────────────────────┐  ┌──────────────────────────┐  ┌──────────────────────────┐
-│   🌐 Web & Mobile Dev   │  │   📊 Data Analysis       │  │   ⚙️ Systems & Core      │
-│                         │  │                          │  │                          │
-│  Next.js · React · TS   │  │  Python · Pandas · NumPy │  │  Java · C · Go           │
-│  Node.js · Express      │  │  SQL · PostgreSQL        │  │  Algorithms · Structures │
-│  Android · Java/Kotlin  │  │  Seaborn · Matplotlib    │  │  Linux · Shell Scripting │
-│  Tailwind CSS · REST    │  │  EDA · Insights · Excel  │  │  C++ · Systems Design    │
-└─────────────────────────┘  └──────────────────────────┘  └──────────────────────────┘
-┌─────────────────────────┐  ┌──────────────────────────┐  ┌──────────────────────────┐
-│   🤖 AI & Automation    │  │   🗄️ Database Systems    │  │   🛡️ Security & Cloud    │
-│                         │  │                          │  │                          │
-│  n8n · Make (Integromat)│  │  PostgreSQL · MySQL      │  │  Pentesting · Wireshark  │
-│  OpenAI API Integration │  │  MongoDB · SQLite        │  │  AWS · Oracle Cloud      │
-│  Intelligent Agents     │  │  Oracle SQL/PLSQL        │  │  Docker · Nginx · SSH    │
-│  Workflow Engineering   │  │  Optimization · Schema   │  │  Network Security        │
-└─────────────────────────┘  └──────────────────────────┘  └──────────────────────────┘
-```
+| Skill / Framework | Proficiency | Progress Bar |
+| :--- | :--- | :--- |
+| **Next.js & React** | 96% | ![96%](https://geps.dev/progress/96?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
+| **Node.js & Backend** | 92% | ![92%](https://geps.dev/progress/92?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
+| **PostgreSQL & SQL** | 90% | ![90%](https://geps.dev/progress/90?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
+| **Python (Data Analysis)** | 94% | ![94%](https://geps.dev/progress/94?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
+| **Java & Mobile Dev** | 88% | ![88%](https://geps.dev/progress/88?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
+| **C & Systems Programming**| 85% | ![85%](https://geps.dev/progress/85?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
+| **Go (Golang)** | 82% | ![82%](https://geps.dev/progress/82?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
+| **SQLite & Lightweight Databases** | 90% | ![90%](https://geps.dev/progress/90?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) |
 
 </div>
 
@@ -106,76 +101,43 @@
 <!-- 🛠️ TECH STACK (Badges) -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack & Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;The Arsenal
 
-<details open>
-<summary><b>🎨 Frontend & UI</b></summary>
-<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend, Systems & Languages</b></summary>
-<br/>
-<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Hack-00FBFF?style=for-the-badge&logo=hack&logoColor=black" alt="Hack"/>
-</p>
-</details>
-
-<details open>
-<summary><b>📊 Data Analytics & Databases</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-</details>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📊 MOST USED LANGUAGES -->
+<!-- 📈 ACTIVITY STATS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 📈 Most Used Languages (Activity Stats)
+## 📈 Activity & Language Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-92.81%25-E34F26?style=flat-square" alt="HTML"/>
-  <img src="https://img.shields.io/badge/PHP-5.81%25-777BB4?style=flat-square" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-0.79%25-F7DF1E?style=flat-square" alt="JS"/>
-  <img src="https://img.shields.io/badge/Hack-0.24%25-00FBFF?style=flat-square" alt="Hack"/>
-  <img src="https://img.shields.io/badge/Python-0.18%25-3776AB?style=flat-square" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-0.17%25-007ACC?style=flat-square" alt="TS"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjamelRebiai&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="45%" alt="Top Languages"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=DjamelRebiai&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" width="45%" alt="GitHub Stats"/>
 </p>
 
 <div align="center">
   
-| Language | Percentage | Progress |
+| GitHub Activity Record | Percentage | Status |
 | :--- | :--- | :--- |
-| **HTML** | 92.81% | ![92%](https://geps.dev/progress/93?dangerColor=E34F26&warningColor=E34F26&successColor=E34F26) |
-| **PHP** | 5.81% | ![5%](https://geps.dev/progress/6?dangerColor=777BB4&warningColor=777BB4&successColor=777BB4) |
-| **JavaScript** | 0.79% | ![1%](https://geps.dev/progress/1?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E) |
-| **Hack** | 0.24% | ![0%](https://geps.dev/progress/0?dangerColor=00FBFF&warningColor=00FBFF&successColor=00FBFF) |
-| **Python** | 0.18% | ![0%](https://geps.dev/progress/0?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB) |
-| **TypeScript** | 0.17% | ![0%](https://geps.dev/progress/0?dangerColor=007ACC&warningColor=007ACC&successColor=007ACC) |
+| **HTML** | 92.81% | ![Active](https://img.shields.io/badge/Primary_Output-E34F26) |
+| **PHP** | 5.81% | ![Active](https://img.shields.io/badge/Legacy/CMS-777BB4) |
+| **JavaScript** | 0.79% | ![Active](https://img.shields.io/badge/Interaction-F7DF1E) |
+| **Python & More** | < 1% | ![Active](https://img.shields.io/badge/Data_Heavy-3776AB) |
 
 </div>
 
@@ -257,29 +219,12 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📈 GITHUB STATS CARDS -->
+<!-- 📈 ADDITIONAL STATS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics (Live)
-
-> [!NOTE]
-> *GitHub Stats below track general activity. For a true reflection of my technical mastery, please refer to the **Tech Stack** and **Featured Projects** above.*
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DjamelRebiai&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjamelRebiai&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="49%" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjamelRebiai&layout=donut-vertical&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="38%" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DjamelRebiai&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="90%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DjamelRebiai&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="49%" alt="Trophies"/>
 </div>
 
 <br/>
@@ -323,8 +268,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 📬 CONNECT -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect!
 
 <div align="center">
 
