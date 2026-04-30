@@ -64,10 +64,10 @@ I specialize in architecting scalable web applications with **Next.js**, automat
 | :--- | :--- | :--- |
 | **Next.js & React** | 96% | ![96%](https://geps.dev/progress/96?dangerColor=58a6ff) | High-performance, SEO-optimized web apps |
 | **Node.js & Backend**| 92% | ![92%](https://geps.dev/progress/92?dangerColor=58a6ff) | Scalable APIs and Real-time microservices |
-| **Python & Data** | 70% | ![70%](https://geps.dev/progress/70?dangerColor=58a6ff) | ETL pipelines, EDA & Business Intelligence |
+| **Python & Data** | 75% | ![75%](https://geps.dev/progress/75?dangerColor=58a6ff) | ETL pipelines, EDA & Business Intelligence |
 | **Java & Mobile** | 88% | ![88%](https://geps.dev/progress/88?dangerColor=58a6ff) | Android Studio, Native Performance |
 | **SQL & Databases** | 90% | ![90%](https://geps.dev/progress/90?dangerColor=58a6ff) | PostgreSQL, Schema Optimization |
-| **Go & Systems** | 75% | ![75%](https://geps.dev/progress/75?dangerColor=58a6ff) | Performant concurrent backend services |
+| **Go & Systems** | 70% | ![70%](https://geps.dev/progress/70?dangerColor=58a6ff) | Performant concurrent backend services |
 
 </div>
 
