@@ -7,7 +7,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=280&section=header&text=Djamel%20Rebiai&fontSize=75&fontAlignY=33&animation=twinkling&fontColor=58a6ff&desc=Full-Stack%20Developer%20%7C%20AI%20Innovator%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18&descColor=8b949e" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=280&section=header&text=Djamel%20Rebiai&fontSize=75&fontAlignY=33&animation=twinkling&fontColor=58a6ff&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20Innovator%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=17&descColor=8b949e" width="100%" alt="Header"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%92%A1+Turning+ideas+into+elegant+solutions;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%90+Securing+systems+%7C+Automating+intelligence;%F0%9F%8E%AF+%22Don't+just+write+code%2C+build+solutions+that+change+reality%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%92%A1+Turning+raw+data+into+actionable+insights;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%90+Securing+systems+%7C+Automating+intelligence;%F0%9F%93%8A+Data+speaks+louder+than+assumptions;%F0%9F%8E%AF+%22Don't+just+write+code+%E2%80%94+build+solutions+that+change+reality%22" alt="Typing SVG" />
   </a>
 </div>
 
@@ -48,8 +48,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-> *"لا تبنِ مجرد كود، بل ابنِ حلولاً تغير الواقع"*
-> 
 > *"Don't just write code — build solutions that change reality."*
 
 <br/>
@@ -58,7 +56,9 @@
 
 🧑‍💻 **Full-Stack Developer** crafting high-performance web & mobile applications
 
-🤖 **AI Agent Builder** — Automating complex workflows with n8n, Make & OpenAI
+📊 **Data Analyst** — Transforming raw data into strategic business decisions using Python, Pandas, NumPy & powerful visualizations
+
+🤖 **AI Agent Builder** — Automating complex workflows with n8n, Make & OpenAI API
 
 🛡️ **Cybersecurity Enthusiast** — Pentesting, Network Analysis & Secure Architecture
 
@@ -66,11 +66,42 @@
 
 ❤️ **Active Volunteer** — Algerian Red Crescent, Bouira Branch
 
-🌍 **Languages:** Arabic & Amazigh (Native) · French (C1) · English (B2) · German (B1) · Russian (Basic)
+🌍 **Languages:** Arabic & Amazigh (Native) · German (B2) · English (B1) · French (B1) · Russian (Basic)
 
 📍 **Based in** Bouira, Algeria 🇩🇿
 
 <br clear="both"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 💼 WHAT I DO -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🎯 What I Bring to the Table
+
+<div align="center">
+
+```
+┌─────────────────────────┐  ┌──────────────────────────┐  ┌──────────────────────────┐
+│   🌐 Web & Mobile Dev   │  │   📊 Data Analysis       │  │   🛡️ Cybersecurity       │
+│                         │  │                          │  │                          │
+│  Next.js · React · TS   │  │  Python · Pandas · NumPy │  │  Pentesting · Wireshark  │
+│  Node.js · Express      │  │  Seaborn · Matplotlib    │  │  Network Analysis        │
+│  Android · Java/Kotlin  │  │  ETL · EDA · Insights    │  │  Secure Architecture     │
+│  PHP · Tailwind CSS     │  │  Jupyter · Data Cleaning │  │  Kali Linux · MITM       │
+└─────────────────────────┘  └──────────────────────────┘  └──────────────────────────┘
+┌─────────────────────────┐  ┌──────────────────────────┐  ┌──────────────────────────┐
+│   🤖 AI & Automation    │  │   🗄️ Databases           │  │   ☁️ Cloud & DevOps       │
+│                         │  │                          │  │                          │
+│  n8n · Make (Integromat)│  │  PostgreSQL · MySQL      │  │  AWS · Oracle Cloud      │
+│  OpenAI API Integration │  │  MongoDB · SQLite        │  │  Docker · Nginx          │
+│  Custom AI Agents       │  │  Oracle SQL/PLSQL        │  │  Linux · SSH Tunneling   │
+│  Workflow Automation    │  │  Database Design         │  │  Contabo · CI/CD         │
+└─────────────────────────┘  └──────────────────────────┘  └──────────────────────────┘
+```
+
+</div>
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -123,6 +154,20 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+</p>
+</details>
+
+<details open>
+<summary><b>📊 Data Analysis & Visualization</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
 </details>
 
@@ -144,7 +189,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 </details>
 
@@ -155,9 +200,7 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/Make_(Integromat)-6D00CC?style=for-the-badge&logo=integromat&logoColor=white" alt="Make"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=robot-framework&logoColor=white" alt="AI Agents"/>
 </p>
 </details>
 
@@ -184,9 +227,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
 
-> 🔍 **مشاريعي على GitHub تنتظر إلقاء نظرة منك! كل مشروع يحكي قصة حل مشكلة حقيقية.**
+> 🔍 **My GitHub repos are waiting for your visit! Every project tells a story of solving a real-world problem.**
 >
-> *My GitHub projects are waiting for you! Each one tells a story of solving a real-world problem.*
+> *Explore the code, star what inspires you, and let's build something amazing together.*
 
 <br/>
 
@@ -196,52 +239,52 @@
 <tr>
 <td width="50%">
 
-### ☁️ Hybrid Cloud Architecture
-**Enterprise-grade** infrastructure combining local servers with Oracle Cloud for **automatic failover** using reverse SSH tunnels, Nginx load balancing & Docker containers.
+### 📊 Retail Sales Data Analysis
+**End-to-end** data analytics pipeline processing thousands of retail POS transactions through rigorous **ETL & EDA** workflows — uncovering actionable business insights with professional-grade visualizations.
 
-`AWS` `Docker` `Nginx` `SSH` `Cloud Computing`
+`Python` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Jupyter`
 
 </td>
 <td width="50%">
 
-### 📊 Sales Data Analysis
-**Professional** Python analytics pipeline processing retail POS transactions through intensive **ETL & EDA** workflows, uncovering actionable business insights.
+### ☁️ Hybrid Cloud Architecture
+**Enterprise-grade** infrastructure combining local servers with Oracle Cloud for **automatic failover** using reverse SSH tunnels, Nginx load balancing & Docker containers.
 
-`Python` `Pandas` `NumPy` `Seaborn` `Matplotlib`
+`AWS` `Docker` `Nginx` `SSH` `Oracle Cloud` `Contabo`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🕌 Hajj & Umrah Platform
-**Premium** tourism agency management system featuring **glassmorphism** design, payment gateway integration & comprehensive booking workflows.
-
-`Next.js` `Tailwind CSS` `Node.js` `PostgreSQL`
-
-</td>
-<td width="50%">
-
 ### 💬 ChatFlow System
-**Real-time** messaging application powered by **WebRTC** for peer-to-peer communication with AI-driven text analysis features.
+**Real-time** messaging application powered by **WebRTC** for peer-to-peer communication with AI-driven text analysis and intelligent conversation features.
 
 `WebRTC` `Node.js` `AI Integration` `Real-time`
 
 </td>
+<td width="50%">
+
+### 🚗 AutoRent System
+**Comprehensive** car rental management covering contracts, maintenance, client management & full financial tracking for rental businesses.
+
+`Full-Stack` `Database Design` `Business Logic`
+
+</td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🚗 AutoRent System
-**Comprehensive** car rental management covering contracts, maintenance, client management & financial tracking for rental businesses.
+### 🛡️ Anti-Cheating App
+**Innovative** Bluetooth-based exam monitoring application that detects and stops **signal anomalies** during examinations in real-time.
 
-`Full-Stack` `Database Design` `Business Logic`
+`Android` `Java` `Kotlin` `Bluetooth API`
 
 </td>
 <td width="50%">
 
 ### 🏕️ Campingdz Platform
-**Interactive** platform for discovering camping spots across Algeria with **smart maps**, recommendations & community features.
+**Interactive** platform for discovering camping spots across Algeria with **smart maps**, recommendations & community-driven features.
 
 `Web Stack` `Maps API` `Community`
 
@@ -250,26 +293,34 @@
 <tr>
 <td width="50%">
 
-### 🛡️ Anti-Cheating App
-**Innovative** Bluetooth-based exam monitoring application that detects and stops **signal anomalies** during examinations.
-
-`Android` `Java` `Kotlin` `Bluetooth API`
-
-</td>
-<td width="50%">
-
 ### 🇩🇪 German Learning Apps
 **AI-powered** language learning applications helping students master German efficiently with intelligent practice & feedback systems.
 
 `AI` `Education` `Mobile` `NLP`
 
 </td>
+<td width="50%">
+
+### 🛒 Online Marketplace
+**Complex** e-commerce platform with seamless cart integration, secure payment flows, and robust data relationship management.
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%">
 
-### 🏥 Algerian Red Crescent — Bouira Branch (Official Website)
-Official website developed to support **humanitarian activities**, facilitate donations & streamline volunteer coordination for the Bouira branch.
+### 💊 Rare Medicine Management
+**Critical** healthcare supply chain system guaranteeing strict security protocols for rare medicine tracking and distribution.
+
+`Java` `JavaFX` `SQLite` `Healthcare`
+
+</td>
+<td width="50%">
+
+### 🏥 Algerian Red Crescent — Bouira (Official Site)
+Official website built to support **humanitarian activities**, facilitate donations & streamline volunteer coordination.
 
 `Next.js` `Tailwind CSS` `Go` `Node.js` `PostgreSQL`
 
@@ -328,12 +379,12 @@ Official website developed to support **humanitarian activities**, facilitate do
 
 <div align="center">
 
-> 🌙 **الهلال الأحمر الجزائري — ولاية البويرة**
+> 🌙 **Algerian Red Crescent — Bouira Branch**
 > 
 > Active volunteer dedicated to humanitarian aid, organizing medical caravans,
 > and distributing assistance to families in need.
 > 
-> *"التكنولوجيا في خدمة الإنسانية"* — Technology in the service of humanity.
+> *"Technology in the service of humanity."*
 
 </div>
 
@@ -353,9 +404,9 @@ Official website developed to support **humanitarian activities**, facilitate do
 
   <br/><br/>
 
-  > ✨ **ملفي الشخصي يحتوي على تفاصيل أكثر عن مشاريعي، مهاراتي، وتجربتي — ألقِ نظرة!**
+  > ✨ **My portfolio dives deeper into my projects, skills & professional journey — come take a look!**
   >
-  > *My portfolio showcases my projects, skills & journey in detail — take a look!*
+  > *From full-stack apps to data pipelines, it's all there — waiting for you.*
 
 </div>
 
@@ -391,9 +442,9 @@ Official website developed to support **humanitarian activities**, facilitate do
 
 <div align="center">
 
-  **💡 Open for freelance projects, collaborations & interesting opportunities!**
+  **💡 Open for freelance projects, collaborations & exciting opportunities!**
   
-  *If you like my work, consider giving a ⭐ — it means a lot!*
+  *If you like what you see, drop a ⭐ — it fuels the grind!*
 
 </div>
 
